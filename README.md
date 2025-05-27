@@ -34,7 +34,7 @@ detectar outliers.
 - Jupyter Notebook
 
 
-enlace a google Colab para visualizar los datos: https://colab.research.google.com/drive/1MkZ_6_ryURYhlRL35ueFTasAUjAVM2qC?usp=chrome_ntp#scrollTo=dHr34YEFg8WU
+enlace a google Colab para descargar y visualizar los datos: https://colab.research.google.com/drive/1MkZ_6_ryURYhlRL35ueFTasAUjAVM2qC?usp=chrome_ntp#scrollTo=dHr34YEFg8WU
 
 
 
